@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC9_1 Pin=Y1-1
+Removed Pin From Net: NetName=NetC4_1 Pin=Y1-2
+Change Component Footprint: Designator=Y1 Old Footprint=QCL320000F18B23B New Footprint=ABM11AIG16000MHZ81ZT
+Change Component Comment : Designator=Y1 Old Comment=32MHz New Comment=ABM11AIG-32.000MHZ-4Z-T3
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "QCL320000F18B23B"; UniqueID = "\WFLVCJOD" ("\WFLVCJOD")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ABM11AIG-32.000MHZ-4Z-T3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/abm11aig-32.000mhz-4z-t3/abracon.html?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://abracon.com/AIGcrystals/ABM11AIG.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ABRACON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ABM11AIG-32.000MHZ-4Z-T3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "815-M11AIG-32-4ZT3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ABRACON/ABM11AIG-32.000MHZ-4Z-T3?qs=gG6m684uYP6ePIn58i2qHg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetC9_1 Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4

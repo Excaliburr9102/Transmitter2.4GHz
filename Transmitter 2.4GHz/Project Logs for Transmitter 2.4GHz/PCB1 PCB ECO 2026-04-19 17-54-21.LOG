@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=A1 Old Footprint=New footprint 1 New Footprint=New footprint 1
+Change Managed Component Library Link : Designator=A1 Old VaultGUID=2EB3EDB2-140C-4FEF-BFDF-2BE6555E9F01 New VaultGUID=2EB3EDB2-140C-4FEF-BFDF-2BE6555E9F01 Old ItemGUID=55f34799-cb22-4b4d-a26b-742623717268 New ItemGUID=55f34799-cb22-4b4d-a26b-742623717268 Old RevisionGUID=82923988-db60-4c54-aed1-fe630eca4e4d New RevisionGUID=04c8cd1d-2d6d-42c5-a6e3-d6dc66d72a3c
+Added Member To Class: ClassName=Sheet1 Member=Component A1 Inverted-F Antenna
